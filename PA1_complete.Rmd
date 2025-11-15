@@ -2,7 +2,7 @@
 title: "Reproducible Research: Peer Assessment 1 (Activity Monitoring Data)"
 author: "Maya Gershtenson"
 date: "2025-11-15"
-output: html_document
+output: github_document
 keep_md: true
 ---
 
